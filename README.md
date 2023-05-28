@@ -1,3 +1,8 @@
+#  Menu Plain text
+
+https://gitlab.com/openbsd98324/menu/-/raw/main/README.md
+
+
 # Email 
 
 http://outlook.office365.com/mail
